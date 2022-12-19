@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="1" type="AUTO_DETECTED" />
+      <mapping ext="wxss" type="CSS" />
+      <mapping ext="wxml" type="HTML" />
+      <mapping pattern="1.text" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

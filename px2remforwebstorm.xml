@@ -1,0 +1,16 @@
+<application>
+  <component name="px2remForWebStorm">
+    <option name="remBaseValue" value="80.0" />
+    <option name="showCalculationProcess" value="false" />
+    <option name="shortCutType" value="REM" />
+    <option name="widthValue" value="1920.0" />
+    <option name="heightValue" value="1080.0" />
+    <option name="remIntention" value="true" />
+    <option name="vwIntention" value="false" />
+    <option name="vhIntention" value="false" />
+    <option name="remCompletion" value="true" />
+    <option name="vwCompletion" value="false" />
+    <option name="vhCompletion" value="false" />
+    <option name="onlyCssFiles" value="false" />
+  </component>
+</application>
